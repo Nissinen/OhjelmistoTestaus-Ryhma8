@@ -1,2 +1,2 @@
 # OhjelmistoTestaus-Ryhma8
-Ohjelmistotestauksen kurssi
+Ohjelmistotestauksen kurssin dokumentointi löytyy Wikistä.
